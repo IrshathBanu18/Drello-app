@@ -1,5 +1,4 @@
-# 
-drello app clone using the react js in use reducer
+# drello app clone using the react js in use reducer
 ## add button
 ## delete button 
 #### edit value
